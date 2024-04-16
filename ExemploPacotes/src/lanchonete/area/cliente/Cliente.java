@@ -13,7 +13,5 @@ public class Cliente {
 	private void consultarSaldoAplicativo() {
 		System.out.println("CONSULTANDO SALDO NO APLICATIVO");
 	}
-	public void pegarPedidoBalcao() {
-		System.out.println("PEGANDO O PEDIDO NO BALCÃO");
-	}
+	
 }
