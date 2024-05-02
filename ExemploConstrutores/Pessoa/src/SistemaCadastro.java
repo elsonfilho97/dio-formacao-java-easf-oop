@@ -1,7 +1,7 @@
 public class SistemaCadastro {
 	public static void main(String[] args) {
 		//criamos uma pessoa no sistema
-		Pessoa marcos = new Pessoa("04158694177", "Elson Filho");
+		Pessoa marcos = new Pessoa("123", "Elson Filho");
 		
 		//definimos o endereço de marcos
 		marcos.setEndereco("RUA DAS MARIAS");
